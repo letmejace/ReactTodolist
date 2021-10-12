@@ -9,7 +9,6 @@ function TodoForm(props) {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-
     setInput("");
   };
 
